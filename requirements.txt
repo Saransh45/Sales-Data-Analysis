@@ -1,0 +1,11 @@
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Jupyter Notebook
+
+Excel/CSV files
